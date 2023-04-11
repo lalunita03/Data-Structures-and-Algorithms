@@ -1,0 +1,29 @@
+guesses : 6
+guessed : []
+current : -------
+Your guess? Yes, there is one d
+
+guesses : 6
+guessed : [d]
+current : d------
+Your guess? Yes, there are 2 e's
+
+guesses : 6
+guessed : [d, e]
+current : de---e-
+Your guess? Yes, there is one b
+
+guesses : 6
+guessed : [b, d, e]
+current : deb--e-
+Your guess? Yes, there is one a
+
+guesses : 6
+guessed : [a, b, d, e]
+current : deba-e-
+Your guess? Yes, there is one t
+
+guesses : 6
+guessed : [a, b, d, e, t]
+current : debate-
+Your guess? Yes, there is one s

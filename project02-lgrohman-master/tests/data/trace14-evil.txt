@@ -1,0 +1,59 @@
+guesses : 7
+guessed : []
+current : ------------
+Your guess? Sorry, there are no e's
+
+guesses : 6
+guessed : [e]
+current : ------------
+Your guess? Sorry, there are no t's
+
+guesses : 5
+guessed : [e, t]
+current : ------------
+Your guess? Sorry, there are no a's
+
+guesses : 4
+guessed : [a, e, t]
+current : ------------
+Your guess? Sorry, there are no o's
+
+guesses : 3
+guessed : [a, e, o, t]
+current : ------------
+Your guess? Yes, there are 2 i's
+
+guesses : 3
+guessed : [a, e, i, o, t]
+current : ------i--i--
+Your guess? Yes, there is one n
+
+guesses : 3
+guessed : [a, e, i, n, o, t]
+current : ------i--in-
+Your guess? Sorry, there are no s's
+
+guesses : 2
+guessed : [a, e, i, n, o, s, t]
+current : ------i--in-
+Your guess? Yes, there is one h
+
+guesses : 2
+guessed : [a, e, h, i, n, o, s, t]
+current : -----hi--in-
+Your guess? Sorry, there are no r's
+
+guesses : 1
+guessed : [a, e, h, i, n, o, r, s, t]
+current : -----hi--in-
+Your guess? Yes, there are 2 l's
+
+guesses : 1
+guessed : [a, e, h, i, l, n, o, r, s, t]
+current : --ll-hi--in-
+Your guess? Yes, there is one u
+
+guesses : 1
+guessed : [a, e, h, i, l, n, o, r, s, t, u]
+current : -ull-hi--in-
+Your guess? Sorry, there are no d's

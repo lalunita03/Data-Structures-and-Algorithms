@@ -1,0 +1,44 @@
+guesses : 8
+guessed : []
+current : -------
+Your guess? Sorry, there are no t's
+
+guesses : 7
+guessed : [t]
+current : -------
+Your guess? Sorry, there are no u's
+
+guesses : 6
+guessed : [t, u]
+current : -------
+Your guess? Sorry, there are no s's
+
+guesses : 5
+guessed : [s, t, u]
+current : -------
+Your guess? Sorry, there are no o's
+
+guesses : 4
+guessed : [o, s, t, u]
+current : -------
+Your guess? Sorry, there are no r's
+
+guesses : 3
+guessed : [o, r, s, t, u]
+current : -------
+Your guess? Sorry, there are no a's
+
+guesses : 2
+guessed : [a, o, r, s, t, u]
+current : -------
+Your guess? Sorry, there are no e's
+
+guesses : 1
+guessed : [a, e, o, r, s, t, u]
+current : -------
+Your guess? Yes, there are 2 i's
+
+guesses : 1
+guessed : [a, e, i, o, r, s, t, u]
+current : -i--i--
+Your guess? Sorry, there are no z's

@@ -1,0 +1,34 @@
+guesses : 1
+guessed : []
+current : -------
+Your guess? Yes, there is one n
+
+guesses : 1
+guessed : [n]
+current : n------
+Your guess? Yes, there is one e
+
+guesses : 1
+guessed : [e, n]
+current : ne-----
+Your guess? Yes, there is one g
+
+guesses : 1
+guessed : [e, g, n]
+current : neg----
+Your guess? Yes, there is one a
+
+guesses : 1
+guessed : [a, e, g, n]
+current : nega---
+Your guess? Yes, there is one t
+
+guesses : 1
+guessed : [a, e, g, n, t]
+current : negat--
+Your guess? Yes, there is one o
+
+guesses : 1
+guessed : [a, e, g, n, o, t]
+current : negato-
+Your guess? Yes, there is one r
